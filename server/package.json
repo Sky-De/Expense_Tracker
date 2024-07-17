@@ -1,0 +1,40 @@
+{
+  "name": "expense_tracker_server",
+  "version": "1.0.0",
+  "description": "Typescript backend using express and GQL",
+  "main": "server.ts",
+  "scripts": {
+    "test": "jest",
+    "dev": "nodemon server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sky-De/expense_tracker_React_Ts_GQL/server"
+  },
+  "author": "skyDe",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.10.4",
+    "@graphql-tools/merge": "^9.0.4",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.11",
+    "bcryptjs": "^2.4.3",
+    "connect-mongodb-session": "^5.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "graphql": "^16.9.0",
+    "graphql-passport": "^0.6.8",
+    "mongoose": "^8.5.1",
+    "passport": "^0.7.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.4",
+    "ts-jest": "^29.2.2",
+    "typescript": "^5.5.3"
+  }
+}
