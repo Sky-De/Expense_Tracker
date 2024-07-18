@@ -51,6 +51,7 @@ Feel free to give it a start 🌟
 Take a look at the live project deployed on Netlify
 
 [Live Demo]()
+
 Link HERE / Add
 
 ![line]
@@ -98,6 +99,7 @@ Instruction here / Add
 ## How to Use
 
 how to use here / Update
+
 Registration and Authentication :
 
 Exploring and Interacting with Posts :
