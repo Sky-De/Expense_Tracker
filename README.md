@@ -1,4 +1,4 @@
-# Expense_Tracker App - MERN stack - GQL - TS app! 
+# Expense_Tracker App - MERN stack - GQL - TS app!
 
 Feel free to give it a start 🌟
 ![line]
@@ -17,15 +17,20 @@ Feel free to give it a start 🌟
 ![line]
 
 ## Tech Stack
+
 ![Static Badge](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![Static Badge](https://img.shields.io/badge/Create%2FReact%2FApp-black?style=for-the-badge&logo=react)
 ![Static Badge](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
 ![Static Badge](https://img.shields.io/badge/axios-black?style=for-the-badge&logo=axios)
 ![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)
 ![Static Badge](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=sass)
+
 - tailwind here / add
+
 - GQL here / add
+
 - APALO here / add
+
 ![Static Badge](https://img.shields.io/badge/node%2Fjs-black?style=for-the-badge&logo=node.js)
 ![Static Badge](https://img.shields.io/badge/express%2Fjs-black?style=for-the-badge&logo=express)
 ![Static Badge](https://img.shields.io/badge/Mongo%2Fdb-black?style=for-the-badge&logo=mongodb)
@@ -33,12 +38,12 @@ Feel free to give it a start 🌟
 ![Static Badge](https://img.shields.io/badge/bem-black?style=for-the-badge&logo=bem)
 ![Static Badge](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
 
-
 ![line]
 
 ## Features
-- ADD Features 
-  
+
+- ADD Features
+
 ![line]
 
 ## Demo
@@ -52,27 +57,32 @@ Link HERE / Add
 
 ## Preview
 
-** ------------------------------------- DESKTOP  -------------------------------------**
+** ------------------------------------- DESKTOP -------------------------------------**
+
 SRC here / Add
+
 <img src="" width="80%">
 
-
 ** -------------------------------------- Mobile ------------------------------------**
-SRC here / Add
-<img src="" width="270">
 
+SRC here / Add
+
+<img src="" width="270">
 
 ![line]
 
 ## About
 
-Title:  🛍️ Introducing our MERN App, where productivity meets innovation! 
+Title: 🛍️ Introducing our MERN App, where productivity meets innovation!
+
 About here / Add
 
 ## Instruction
+
 Instruction here / Add
+
 - **Authentication :**
-- 
+
 - **User Interaction :**
 
 - **Profile Management :**
@@ -83,12 +93,12 @@ Instruction here / Add
 
 - **Dark and Light Mode :**
 
-
 ![line]
 
 ## How to Use
+
 how to use here / Update
-Registration and Authentication : 
+Registration and Authentication :
 
 Exploring and Interacting with Posts :
 
@@ -97,7 +107,6 @@ Profile Management :
 Feedback Section :
 
 Dark and Light Mode :
-
 
 ![line]
 
@@ -122,9 +131,11 @@ npm install
 # Run the project
 npm run dev
 ```
+
 ![line]
 
 [line]: https://user-images.githubusercontent.com/75939390/137615281-3a875960-92cc-407f-97fe-fd2319bdb252.png
+
 ## Contact
 
 **skyDe**
