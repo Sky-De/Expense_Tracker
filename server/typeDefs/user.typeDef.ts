@@ -37,3 +37,5 @@ type LogoutResponse {
 }
 
 `;
+
+export default userTypeDef;

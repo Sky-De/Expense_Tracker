@@ -20,10 +20,12 @@
 
 import { ApolloServer } from "@apollo/server";
 import { startStandaloneServer } from "@apollo/server/standalone";
+import mergedTypeDefs from "./typeDefs";
+import mergedResolvers from "./resolvers";
 
 const server = new ApolloServer({
-  typeDefs,
-  resolvers,
+  typeDefs: mergedTypeDefs,
+  resolvers: mergedResolvers,
 });
 
 const { url } = await startStandaloneServer(server);
