@@ -20,8 +20,8 @@
 
 import { ApolloServer } from "@apollo/server";
 import { startStandaloneServer } from "@apollo/server/standalone";
-import mergedTypeDefs from "./typeDefs";
-import mergedResolvers from "./resolvers";
+import mergedTypeDefs from "./typeDefs.ts";
+import mergedResolvers from "./resolvers.ts";
 
 const server = new ApolloServer({
   typeDefs: mergedTypeDefs,
